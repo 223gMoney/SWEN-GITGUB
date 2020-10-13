@@ -20,11 +20,11 @@ everyday.
 
 
 **-Learning about what software engineers really do
-**-How it's different from other fields
-**-What companies look for**
+-How it's different from other fields
+-What companies look for**
 
 
-[Link to SE](https://www.rit.edu/study/software-engineering-bs)
+[Link to SE](<https://www.rit.edu/study/software-engineering-bs>)
 [Image](src)
 ```
 
