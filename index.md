@@ -16,7 +16,7 @@ play any game you want and have fun. Plus you connect with many other people.
 I also have been skating a lot recently. With a lot of activities closed
 on campus I've picked up skateboarding and have been trying to practice 
 everyday.
-
+```
 
 **-Learning about what software engineers really do
 -How it's different from other fields
@@ -25,7 +25,7 @@ everyday.
 
 SE website: [Link to SE](https://www.rit.edu/study/software-engineering-bs/)
 [Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
