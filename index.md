@@ -15,18 +15,19 @@ My favorite hobby is probably playing video games because it's easy to
 play any game you want and have fun. Plus you connect with many other people.
 I also have been skating a lot recently. With a lot of activities closed
 on campus I've picked up skateboarding and have been trying to practice 
-everyday.
+everyday. 
 ```
+![alt text](https://github.com/223gMoney/SWEN-GITGUB/blob/gh-pages/download.jpg)
 
-**-Learning about what software engineers really do
--How it's different from other fields
--What companies look for**
+**-Learning about what software engineers really do**  
+**-How it's different from other fields**  
+**-What companies look for**  
 
 
 SE website: [Link to SE](https://www.rit.edu/study/software-engineering-bs)
 
 
-![alt text](https://github.com/223gMoney/SWEN-GITGUB/blob/gh-pages/download.jpg)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
