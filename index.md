@@ -9,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 My name is Huan Huynh, I attended Liverpool High School in Syracuse, New York. 
 My favorite hobby is probably playing video games because it's easy to 
@@ -24,7 +23,7 @@ everyday.
 -What companies look for**
 
 
-[Link to SE](<https://www.rit.edu/study/software-engineering-bs>)
+[Link to SE](<https://www.rit.edu/study/software-engineering-bs/>)
 [Image](src)
 ```
 
