@@ -23,7 +23,7 @@ everyday.
 -What companies look for**
 
 
-[Link to SE](<https://www.rit.edu/study/software-engineering-bs/>)
+SE website: [Link to SE](https://www.rit.edu/study/software-engineering-bs/)
 [Image](src)
 ```
 
