@@ -11,19 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+My name is Huan Huynh, I attended Liverpool High School in Syracuse, New York. 
+My favorite hobby is probably playing video games because it's easy to 
+play any game you want and have fun. Plus you connect with many other people.
+I also have been skating a lot recently. With a lot of activities closed
+on campus I've picked up skateboarding and have been trying to practice 
+everyday.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**-Learning about what software engineers really do
+**-How it's different from other fields
+**-What companies look for**
 
-**Bold** and _Italic_ and `Code` text
 
-[https://www.rit.edu/study/software-engineering-bs](url) and ![Image](src)
+[Link to SE](https://www.rit.edu/study/software-engineering-bs)
+[Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
