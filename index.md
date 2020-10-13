@@ -23,8 +23,10 @@ everyday.
 -What companies look for**
 
 
-SE website: [Link to SE](https://www.rit.edu/study/software-engineering-bs/)
-[Image](src)
+SE website: [Link to SE](https://www.rit.edu/study/software-engineering-bs)
+
+
+![alt text](https://github.com/223gMoney/SWEN-GITGUB/blob/gh-pages/download.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
